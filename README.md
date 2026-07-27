@@ -100,4 +100,4 @@ Update the `PATTERNS` block in `audit-node-runtime.sh` when GitHub publishes new
 
 ## License
 
-MIT (recommended). Add a `LICENSE` file if publishing publicly.
+This project is licensed under the [MIT License](LICENSE).
